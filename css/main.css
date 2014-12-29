@@ -1,0 +1,20 @@
+canvas {
+	margin: auto;
+	display: block !important;
+	border: 1px solid black;
+}
+
+#canvas-wrap {
+	padding: 15px;
+}
+textarea {
+	padding: 10px;
+}
+.editor { 
+	width: 100%;
+}
+#startbutton {
+	border-radius: 0;
+	width: 100%;
+	margin-top: 15px;
+}

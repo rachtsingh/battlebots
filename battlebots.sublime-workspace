@@ -1,0 +1,952 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CAV",
+				"CANVAS_HEIGHT"
+			],
+			[
+				"CA",
+				"CANVAS_WIDTH"
+			],
+			[
+				"backgroun",
+				"background-origin"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"HEA",
+				"HEALTH_RADIUS"
+			],
+			[
+				"players",
+				"players"
+			],
+			[
+				"CANVAS",
+				"CANVAS_HEIGHT"
+			],
+			[
+				"QuadTree",
+				"QuadTreeNode"
+			],
+			[
+				"upper",
+				"upperleft"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"get",
+				"getEditDistance"
+			],
+			[
+				"string",
+				"stringarr"
+			],
+			[
+				"right",
+				"rightHeight"
+			],
+			[
+				"left",
+				"leftHeight"
+			],
+			[
+				"is",
+				"isAVL"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"int",
+				"intPerfect"
+			],
+			[
+				"perspective",
+				"perspectiveRight"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			],
+			[
+				"$",
+				"$animate	AngularJS"
+			],
+			[
+				"slide",
+				"slideInLeft"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"fade",
+				"fadeInUp"
+			],
+			[
+				"ROLE",
+				"ROLE_TEACHER"
+			],
+			[
+				"stu",
+				"student1"
+			],
+			[
+				"cows_",
+				"cows_used"
+			],
+			[
+				"cows",
+				"cows_used"
+			],
+			[
+				"cows_al",
+				"cows_already_used"
+			],
+			[
+				"this",
+				"this_cows_used"
+			],
+			[
+				"co",
+				"cows_allowed"
+			],
+			[
+				"max",
+				"max_column"
+			],
+			[
+				"min",
+				"min_column"
+			],
+			[
+				"final",
+				"final_dist"
+			],
+			[
+				"in",
+				"infinity"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"html",
+				"html5	HTML5 Boilerplate"
+			],
+			[
+				"rever",
+				"reverseString"
+			],
+			[
+				"_fe",
+				"_aux_freq_start"
+			],
+			[
+				"aux_",
+				"_aux_freq_start"
+			],
+			[
+				"comment",
+				"commentsection	Python Comment title"
+			],
+			[
+				"par",
+				"parsedcontent"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"new",
+				"newanswer"
+			],
+			[
+				"trimm",
+				"trimmed_questions"
+			],
+			[
+				"curre",
+				"current_reading"
+			],
+			[
+				"reading",
+				"reading"
+			],
+			[
+				"rend",
+				"render_template"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"check",
+				"check_auth"
+			],
+			[
+				"spotif",
+				"spotify_url"
+			],
+			[
+				"csv",
+				"csvobj"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"initializer",
+				"initializer_list"
+			],
+			[
+				"num",
+				"numconvexB"
+			],
+			[
+				"M",
+				"M"
+			],
+			[
+				"MAX",
+				"MAXN"
+			],
+			[
+				"gra",
+				"grahamstack"
+			],
+			[
+				"ans",
+				"ansB"
+			],
+			[
+				"points",
+				"pointsB"
+			],
+			[
+				"test",
+				"testinsideA"
+			],
+			[
+				"graha",
+				"grahamscan"
+			],
+			[
+				"point",
+				"pointsA"
+			],
+			[
+				"conv",
+				"convexA"
+			],
+			[
+				"sum",
+				"sumy"
+			],
+			[
+				"poin",
+				"pointType"
+			],
+			[
+				"center",
+				"centerA"
+			],
+			[
+				"inter",
+				"intersect"
+			],
+			[
+				"graham",
+				"grahamstack"
+			],
+			[
+				"flatte",
+				"flatten_image"
+			],
+			[
+				"try",
+				"trydecrypt"
+			],
+			[
+				"section",
+				"sectionstodo"
+			],
+			[
+				"answered",
+				"answeredquestions"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ex",
+				"executeScript"
+			],
+			[
+				"app",
+				"app_secret"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 9812,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1614,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: HTML5 Boilerplate"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"html5",
+				"Snippet: HTML5 Boilerplate"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 245.0,
+		"history":
+		[
+			"a.reverse()",
+			"a = \"blah blah\".split()",
+			"\"Moritz is a BAMF\".split()",
+			"\"Moritz is a BAMF\".split().reverse()",
+			"\"Moritz is a BAMF\".reverse()",
+			"b",
+			"b = [item for sublist in a for item in sublist if item > 0]",
+			"b",
+			"b = [item for sublist in a for item in sublist if item > 2]",
+			"a = [[4, 5], [1, 2]]",
+			"class a: def __init__(self):",
+			"class a:",
+			"class a():",
+			"[i for i in range(0, 60)]",
+			"[i for i in range(60, 0)]",
+			"i for i in range(60, 0)",
+			"range(60, 0)",
+			"5 & 1",
+			"4 & 1",
+			"1 << 2",
+			"1 << 0",
+			"a = \"This is a string to reverse\"",
+			"[i for i in enumerate(range(5, 15))]",
+			"[i for i in enumerate(range(5))]",
+			"enumerate(range(5))",
+			"import babble",
+			"try:",
+			"type('5')",
+			"type(5)",
+			"'{0}\\t{1}\\t{2}\\n'.format(t, x, y)",
+			"t = 0.5",
+			"y = 2",
+			"x = 1",
+			"1/2",
+			"2.34186*3*10**8*(math.cos(n)-0.617139)",
+			"import math",
+			"2.34186*3*10**8*(math.cos(n)-0.617139)",
+			"n = 0.5",
+			"2.34186*3.0*(10**8)",
+			"def exec(func):",
+			"json.dumps()",
+			"import json",
+			"from flask import jsonify",
+			"from flask import jsonif",
+			"import md5",
+			"a.thing",
+			"a = {'thing':4}",
+			"json.loads('{\"a\":4}')",
+			"import json",
+			"'youtube-dl.exe \"ytsearch:{0}\" -f 141/172/5/43/18/34/44/35/45/22 --add-metadata --extract-audio --audio-format \"mp3\" -o \"%(title)s.%(ext)s\"'.format(query)",
+			"query = 'wonderful'",
+			"os.path.dirname(os.path.realpath(__file__))",
+			"import os",
+			"print(\"works\")",
+			"time.sleep(2)",
+			"import time",
+			"\"a\" + 10",
+			"6 & -6",
+			"4 & -4",
+			"4 & 2",
+			"12 & (-12)",
+			"15 & (-15)",
+			"6 & (-6)",
+			"for path in os.walk(\"C:\\\\Users\\\\Rachit\\\\Documents\\\\GitHub\\\\imaginetomorrow\\\\parsing\\\\pics\"):",
+			"for path in os.walk(\"C:\\Users\\Rachit\\Documents\\GitHub\\imaginetomorrow\\parsing\\pics\"):",
+			"for path in os.walk(\"C:\\Users\\Rachit\\Documents\\GitHub\\imaginetomorrow\\parsing\\pics\"): \\ print(path)",
+			"import os",
+			"print('\\*')",
+			"print('\\n')",
+			"print('\\g')",
+			"print('\\g",
+			"25 > 6 > 15",
+			"15 > 6 > 1",
+			"'\\x1a'",
+			"r'\\x45'",
+			"'\\x45'",
+			"dir(json)",
+			"json.jsonify",
+			"import json",
+			"jsonify",
+			"4 & 2",
+			"4 & 4",
+			"4 | 4",
+			"3 | 4",
+			"2 | 4",
+			"2 ^ 4",
+			"a.strip()",
+			"a",
+			"a = '  afda \\t\\t ' ",
+			"import re",
+			"cont = ' <script> stuff </script>'",
+			"f = open(\"harvard.json\", 'r')",
+			"dir(json)",
+			"import json",
+			"import JSON",
+			"JSON",
+			"import requests",
+			"[ord(c) for c in list(mystr)]",
+			"[ord(c) for c in mystr.split('')]",
+			"[ord(c) for c in mystr.split()]",
+			"ord(bytes)",
+			"chr(bytes)",
+			"float(bytes)",
+			"int(bytes)",
+			"int i = bytes",
+			"print(bytes)",
+			"type(bytes)",
+			"bytes = str.encode(mystr)",
+			"mystr = \"http://cs51.seas.harvard.edu/docs/lectures/2013/1-overview.pdf\"",
+			"a = bytearray(\"http://cs51.seas.harvard.edu/docs/lectures/2013/1-overview.pdf\")",
+			"a = bytearray(\"http://cs51.seas.harvard.edu/docs/lectures/2013/1-overview.pdf\"",
+			"text = ",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rachit/Documents/GitHub/mitra/www/index.html",
+		"/C/Users/Rachit/Documents/GitHub/mitra/www/config.xml",
+		"/C/Users/Rachit/Documents/GitHub/mitra/platforms/android/local.properties",
+		"/C/ADT/facebook-android-sdk-3.8.0/facebook/project.properties",
+		"/C/Users/Rachit/Documents/GitHub/battlebots/index.html",
+		"/C/Users/Rachit/Documents/GitHub/battlebots/js/app.js",
+		"/C/Users/Rachit/temp/ionic-weather/platforms/android/res/xml/config.xml",
+		"/C/Users/Rachit/Documents/GitHub/mitra/platforms/android/assets/www/HackBook/index.html",
+		"/C/Users/Rachit/Desktop/temp.py",
+		"/C/Users/Rachit/Documents/GitHub/mitra/platforms/android/assets/www/HackBook/README",
+		"/C/Users/Rachit/Documents/GitHub/mitra/plugins/com.phonegap.plugins.facebookconnect/example/Scrumptious/www/index.html",
+		"/C/Users/Rachit/Documents/GitHub/mitra/plugins/com.phonegap.plugins.facebookconnect/example/HackBook/js/auth.js",
+		"/C/Users/Rachit/Documents/GitHub/mitra/plugins/com.phonegap.plugins.facebookconnect/example/Scrumptious/www/js/main.js",
+		"/C/Users/Rachit/Documents/GitHub/mitra/plugins/com.phonegap.plugins.facebookconnect/plugin.xml",
+		"/C/Users/Rachit/Downloads/facebook-android-sdk-sdk-version-3.7/facebook-android-sdk-sdk-version-3.7/README.mdown",
+		"/C/Users/Rachit/Documents/GitHub/mitra/www/templates/tabs.html",
+		"/C/Users/Rachit/Documents/GitHub/mitra/www/templates/about.html",
+		"/C/Users/Rachit/Documents/GitHub/mitra/platforms/android/res/xml/config.xml",
+		"/C/Users/Rachit/Documents/GitHub/battlebots/css/main.css",
+		"/C/Users/Rachit/Documents/GitHub/ieee/js/app.js",
+		"/C/Users/Rachit/Documents/GitHub/ieee/index.html",
+		"/C/Users/Rachit/Documents/GitHub/ieee/css/main.css",
+		"/C/Users/Rachit/temp/ionic-weather/www/index.html",
+		"/C/Users/Rachit/temp/ionic-weather/www/js/app.js",
+		"/C/Users/Rachit/temp/ionic-weather/www/js/directives.js",
+		"/C/Users/Rachit/temp/ionic-weather/www/js/services.js",
+		"/C/Users/Rachit/temp/ionic-weather/www/js/filters.js",
+		"/C/Users/Rachit/temp/ionic-weather/www/css/app.css",
+		"/C/Users/Rachit/Downloads/thing.py",
+		"/C/Users/Rachit/Downloads/Particle.py",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/notes/Lecture - 2014-02-19 BST/notes/BinaryNode.h",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/notes/Lecture - 2014-02-19 BST/notes/BinarySearchTree.h",
+		"/C/Users/Rachit/Documents/GitHub/simplydragons.github.com/index.html",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/notes/Lecture - 2014-02-19 BST/notes/BstNode.h",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Homework 4/Homework 4/Homework 4.cpp",
+		"/C/Users/Rachit/Documents/GitHub/mercury redesign/app/models.py",
+		"/C/Users/Rachit/Documents/GitHub/facebook/test.html",
+		"/C/Users/Rachit/temp/ionic-weather/platforms/android/AndroidManifest.xml",
+		"/D/RECOVERY_FILES_DO_NOT_EDIT",
+		"/C/Users/Rachit/Documents/GitHub/mercury redesign/app/templates/index.html",
+		"/C/ADT/sdk/platform-tools/source.properties",
+		"/C/ADT/ant/apache-ant-1.9.3/README",
+		"/C/Users/Rachit/Downloads/code.py",
+		"/C/Users/Rachit/Downloads/barnes_hut.py",
+		"/C/Users/Rachit/Downloads/fixed.py",
+		"/C/Users/Rachit/Downloads/barneshutnp (1).py",
+		"/C/Users/Rachit/Downloads/n_body.py",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/notes/Lecture - 2014-02-19 BST/notes/calc",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/notes/Lecture - 2014-02-19 BST/notes/quadtree.py",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/notes/Lecture - 2014-02-19 BST/notes/EmptyBstNode.h",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/notes/Lecture - 2014-02-19 BST/notes/main.cpp",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/js/services.js",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/js/app.js",
+		"/C/Users/Rachit/Documents/GitHub/simplydragons.github.com/hogwarts/index.html",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/hw3/hw.cpp",
+		"/C/Users/Rachit/Desktop/index.html",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/css/app.css",
+		"/C/Users/Rachit/Desktop/Site.css",
+		"/C/Users/Rachit/Desktop/grammar.grxml",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/js/directives.js",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/index.html",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/js/controllers.js",
+		"/C/Users/Rachit/Documents/Presidential Scholar/14_Application_Forms.pdf",
+		"/C/Users/Rachit/Downloads/Square Tiling.cpp",
+		"/C/Users/Rachit/Downloads/energy.cpp",
+		"/C/Users/Rachit/Documents/dnd/Jace.dnd",
+		"/C/Users/Rachit/Desktop/q3.cpp",
+		"/C/Users/Rachit/Desktop/q1.cpp",
+		"/C/Users/Rachit/Desktop/q2.cpp",
+		"/C/Users/Rachit/Desktop/newsolution.cpp",
+		"/c/mingw/lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algo.h",
+		"/C/Users/Rachit/Desktop/test.cpp",
+		"/C/Users/Rachit/Desktop/q3.in",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/templates/sidebar.html",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/css/animate.css",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/partials/list.html",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/templates/list.html",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Gradebook/Gradebook/Gradebook.cpp",
+		"/C/Users/Rachit/Documents/reilly/new winter experiments/lightwinter/tickle.lua",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Gradebook/Gradebook/details.csv",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/partials/detail.html",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/js/filters.js",
+		"/C/Users/Rachit/Documents/GitHub/simplydragons.github.com/mercury/css/style.css",
+		"/C/Users/Rachit/Documents/GitHub/simplydragons.github.com/mercury/css/media.css",
+		"/C/Users/Rachit/Documents/GitHub/angular-mobile/app/partials/partial2.html",
+		"/C/Users/Rachit/Documents/GitHub/frontendexperiments/index.html",
+		"/C/Users/Rachit/Documents/GitHub/frontendexperiments/magic.css",
+		"/C/Users/Rachit/Documents/GitHub/frontendexperiments/animation.css",
+		"/C/Users/Rachit/Documents/GitHub/frontendexperiments/main.css",
+		"/C/Users/Rachit/Desktop/henry.html",
+		"/C/Users/Rachit/Documents/GitHub/simplydragons.github.com/mercury/index.html",
+		"/C/Users/Rachit/Documents/GitHub/mercury redesign/app/__init__.py",
+		"/C/Users/Rachit/Documents/GitHub/mercury redesign/run.py",
+		"/C/Users/Rachit/Documents/GitHub/mercury redesign/test.py",
+		"/C/Users/Rachit/Documents/GitHub/mercury redesign/app/views.py",
+		"/C/Users/Rachit/Documents/GitHub/mercury redesign/app/errors.py",
+		"/C/Users/Rachit/Documents/usaco/complex.cpp",
+		"/C/Users/Rachit/Downloads/pretty pictures/vector.py",
+		"/C/Users/Rachit/Downloads/pretty pictures/test.py",
+		"/C/Users/Rachit/Documents/GitHub/mercury redesign/Procfile",
+		"/C/Users/Rachit/Documents/GitHub/mercury redesign/main.py",
+		"/C/Users/Rachit/Documents/reilly/new winter experiments/lightwinter/logging.csv",
+		"/C/Users/Rachit/Documents/reilly/new winter experiments/lightwinter/zippedwinter/tickle.lua",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Homework 2/Homework 2/Homework 2.cpp",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Gradebook/Gradebook/summary.csv",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Homework 2/Homework 2/summary.csv",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Homework 2/Homework 2/details.csv",
+		"/C/Users/Rachit/Desktop/robots.cpp",
+		"/C/Users/Rachit/Documents/usaco/rblock.cpp",
+		"/C/Users/Rachit/Documents/usaco/rblock.in",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Gradebook/Gradebook/homework_1.csv",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Gradebook/Gradebook/exams_1.csv",
+		"/C/Users/Rachit/Downloads/dbtocsv.py",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/notes/1-17-14.cpp",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/notes/1-15-14.cpp",
+		"/C/Users/Rachit/Downloads/mysql-5.6.16-win32/mysql-5.6.16-win32/README",
+		"/C/Users/Rachit/Downloads/remiscellaneous/archive.sql-out.csv",
+		"/C/Users/Rachit/Downloads/remiscellaneous/dbtocsv.py",
+		"/C/Users/Rachit/Downloads/remiscellaneous/project.sql-out.csv",
+		"/C/mysql/my.ini",
+		"/C/Users/Rachit/Downloads/ws_project_stream.sql",
+		"/C/Users/Rachit/Downloads/archive.sql",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Homework 2/Homework 2/exams_1.csv",
+		"/C/Users/Rachit/Documents/Classes/CPT_S 223/assignments/Homework 2/Homework 2/quizzes_1.csv",
+		"/C/Users/Rachit/Documents/usaco/dec.cpp",
+		"/C/Users/Rachit/Documents/usaco/rblock.out",
+		"/C/Users/Rachit/Documents/usaco/dec.in",
+		"/C/Users/Rachit/Documents/usaco/skicourse.cpp"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"dimension",
+			";",
+			"inside",
+			"x.inside",
+			"inside",
+			"position.x",
+			"thing",
+			"this",
+			"rect",
+			"y",
+			"max",
+			"min",
+			"start",
+			"x",
+			"}\n",
+			"x",
+			"starter",
+			"context",
+			"solarized",
+			"console.log",
+			"distance",
+			"angle",
+			"x",
+			"stange",
+			"bunny",
+			"class",
+			"number\"",
+			"name\"",
+			"primary",
+			"weatherIcon",
+			"url",
+			"15",
+			"rand()",
+			"rect[3]",
+			"rect[2]",
+			"rect[1]",
+			"rect[0]",
+			"rect",
+			"contains",
+			"setLeftChild",
+			"//",
+			"spaced",
+			"left",
+			"leftHeight",
+			"working",
+			"\"item\" ",
+			"item",
+			"id",
+			"min",
+			"temp",
+			"border",
+			"transform-origin",
+			"800px",
+			"100% 0",
+			"1",
+			"5",
+			"0.5",
+			"slideOutRight",
+			"5s",
+			"1s",
+			"10s",
+			"slideOutRight",
+			"transition",
+			"_pressure",
+			"_aux_freq_start",
+			"rubberBand",
+			"rubberband",
+			"wobble",
+			":not(.special-animation)",
+			"flipInY",
+			"5s",
+			"transition",
+			"out",
+			"in",
+			"ease",
+			"transform",
+			"this",
+			",]",
+			":",
+			"rgb",
+			">-->\n",
+			"transform",
+			"menu",
+			"ease-in",
+			"/*",
+			"/* fadeInUp */",
+			"rotateZ(-1",
+			"rotateZ(10deg)",
+			"4s",
+			"100% {",
+			"50% {",
+			"0% {",
+			"ease",
+			"2s",
+			"out",
+			"fadeInUp",
+			"translateY(-20px);",
+			"opacity: 1;",
+			"opacity: 0;",
+			"fadeInDown",
+			"ease-in",
+			"2s",
+			"90deg",
+			"ateX",
+			"rotateY(90deg)",
+			"0.5",
+			"slideInRight",
+			"20px",
+			"fadeInUp",
+			"1s",
+			"2s",
+			"-20px",
+			"slideInRight",
+			"fadeInUp",
+			"translateX(20",
+			"translateX",
+			"20px",
+			"translateY",
+			"fadeInUp",
+			"1s",
+			"css",
+			"db.session.co",
+			"db.session.add",
+			"1",
+			"aux_period_us",
+			"expect_mass",
+			"omega",
+			"trap_period_us"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"[])\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7612,
+								7612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5391.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1345,
+								1350
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 255.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "battlebots.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"C:\\Users\\Rachit\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\HTML5 Boilerplate.sublime-snippet"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Rachit\\Documents\\GitHub\\mitra\\mitra.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

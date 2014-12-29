@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+	<head>
+		<title>BattleBots!</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="css/main.css">
+		<script src="js/codemirror.js"></script>	
+		<script src="js/javascript.js"></script>
+		<script type="text/javascript" src="js/app.js"></script>
+		<link rel="stylesheet" href="css/codemirror.css">
+		<link rel="stylesheet" href="css/solarized.css">
+		<link rel="stylesheet" href="css/monokai.css">
+	</head>
+	<body onload="ready()">
+		<div id="canvas-wrap" class="row">
+			<canvas id="canvas" width="900" height="600"></canvas>
+		</div>
+		<div class="row">
+			<div class="col-xs-12" id="description">
+				<p>BattleBots is an experiment to help teach programming by <i>doing</i> rather than watching. The rules are simple:</p>
+
+				<p>1. Each player writes a decision-making function that is called each frame by the simulator.
+
+				2. The bot whose health reaches 0 first loses.</p>
+
+				<p>API: the players have access to the following functions:
+
+				<b>scope()</b>: returns an Array of Objects, each of which has position and type values</p>
+
+			</div>
+		</div>
+		<button type="button" class="btn btn-success" onclick="start()" id="startbutton">Start!</button>
+		<button type="button" class="btn btn-error" onclick="stop()" id="startbutton">Stop!</button>	
+		<div id="player-input" class="row">
+			<div class="col-xs-6">
+				<textarea id="player1" class="editor">setSpeed(1);</textarea>
+			</div>
+			<div class="col-xs-6">
+				<textarea id="player2" class="editor">setSpeed(1); 
+setDirection(-1*Math.PI);</textarea>
+			</div>
+		</div>
+	</body>
+</html>

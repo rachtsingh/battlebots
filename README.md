@@ -12,7 +12,8 @@ oriented towards smaller children and slow-paced. I want to build something with
 
 ### todo
 There's a lot! This is just the beginning:
-	- fix breaking bugs (many of them)
-	- get some sort of online multiplayer system
-		- probably with Node
-		- there's a lot of issues about this sort of thing I don't fully understand
+
+- fix breaking bugs (many of them)
+- get some sort of online multiplayer system
+	- probably with Node
+	- there's a lot of issues about this sort of thing I don't fully understand
